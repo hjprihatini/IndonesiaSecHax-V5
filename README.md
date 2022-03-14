@@ -15,4 +15,5 @@ Plen : Wisnu, juna, ardiansyah
 Guru : The King, Nurvy, Demon King
 
 SUBSCRIBE CHANNEL HACKING : RED SEC
+
 SUBSCRIBE CHANNEL GAMING  : RED32
