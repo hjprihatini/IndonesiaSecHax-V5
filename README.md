@@ -9,7 +9,9 @@ $ Apt install python
 # Creator Tools
 
 Creator : ./RedSec
+
 Plen : Wisnu, juna, ardiansyah
+
 Guru : The King, Nurvy, Demon King
 
 SUBSCRIBE CHANNEL HACKING : RED SEC
